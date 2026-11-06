@@ -1,0 +1,9 @@
+{
+  "modules": [
+    {
+      "path": "apps/worker",
+      "entrypoint": "worker.entrypoints.worker:main",
+      "name": "worker"
+    }
+  ]
+}
